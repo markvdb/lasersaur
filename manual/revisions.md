@@ -35,7 +35,7 @@ bearings on M5 screws for all the cart rollers.
       are custom-cut and part of Panel Pack.
   - x-cart (build simplifications)
     - aluminum plates mount now to the end of the extrusions
-      to eliminate alinment steps
+      to eliminate alignment steps
     - rollers are now standard 5x14x5 ball bearings on M5 screws
     - adjustment ball bearing shaft screws are now supposed to touch 
       t-slot base and reverse nut is not necessary anymore
